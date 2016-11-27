@@ -1,0 +1,21 @@
+# Site settings
+title: Cogs and Curves
+header-img: img/home-bg.png
+email: kjleitz@gmail.com
+copyright_name: kjleitz
+description: > # this means to ignore newlines until "baseurl:"
+  An aimful wander into the world of web development
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: kjleitz
+github_username:  kjleitz
+learn_profile: kjleitz
+email_username: kjleitz@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
