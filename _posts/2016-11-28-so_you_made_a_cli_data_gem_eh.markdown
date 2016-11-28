@@ -9,7 +9,7 @@ I've been doing Flatiron School's [Learn.co](https://learn.co) for... let's see,
 
 ## Enter Whatsa
 
-I chose to create an application I call "Whatsa".
+I chose to create an application I call "Whatsa". Check it out [here](https://github.com/kjleitz/whatsa) on my GitHub page.
 
 ### What's a Whatsa?
 
