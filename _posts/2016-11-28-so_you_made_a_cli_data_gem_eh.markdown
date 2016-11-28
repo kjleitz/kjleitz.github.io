@@ -27,7 +27,7 @@ Simple!
 
 ## I get how it works, but how does it _work?_
 
-Under the hood, Whatsa is all Ruby. It uses open-uri to fetch HTML, and the Nokogiri gem to parse it.
+Under the hood, Whatsa is all Ruby. It uses open-uri to fetch some HTML pages, and the Nokogiri gem to parse it.
 
 ### I am a metaphorical rowdy teen with behavioral issues. Give me some structure!
 
