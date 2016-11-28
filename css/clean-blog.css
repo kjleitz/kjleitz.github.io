@@ -16,7 +16,7 @@ p {
 p a {
   text-decoration: underline;
 }
-h1,
+/*h1,
 h2,
 h3,
 h4,
@@ -28,7 +28,7 @@ h6.powered_by {
   line-height: 1;
   font-size: 13px;
   margin-top: 0px;
-}
+}*/
 a {
   color: #404040;
 }
