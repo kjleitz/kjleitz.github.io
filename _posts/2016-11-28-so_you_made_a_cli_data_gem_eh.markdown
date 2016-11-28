@@ -312,7 +312,7 @@ There are two points in the app experience where the user can choose between a l
   end
 ```
 
-We put these into their own methods so we don't polllute the `#run` method with logic that can be separated into their own abstract divisions of labor.
+We put these into their own methods so we don't pollute the `#run` method with logic that can be separated into their own abstract divisions of labor.
 
 We also have some quick little methods for summarizing/full-texting a section of an article:
 
