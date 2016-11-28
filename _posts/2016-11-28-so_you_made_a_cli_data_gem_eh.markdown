@@ -45,7 +45,6 @@ WIKISEARCH = 'https://en.wikipedia.org/w/index.php?search='
 def initialize(term)
   # only keep word chars and parens, turn everything between each 'word'
   # to a single '+' and remove '+'s at the beginning and end if they're there
-  # @query = term.gsub(/\W+/, '+').gsub(/(\A\+|\+\z)/, '')
   @query = term.gsub(/[^A-z0-9\(\)]+/, '+').gsub(/(\A\+|\+\z)/, '')
 
   # store the page in an instance variable so we don't keep polling the site
