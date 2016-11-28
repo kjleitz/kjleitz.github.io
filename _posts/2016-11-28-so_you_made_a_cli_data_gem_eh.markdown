@@ -94,7 +94,7 @@ This hash is composed for the next step (from where we left off in the last sect
 
 #### `Whatsa::Scraper` (#2)
 
-"Why would you initialize a _whole new_ `Scraper` object to make an article out of? You literally have the link right there in front of you! Go scrape that directly!"
+"Why would you initialize a _whole new_ `Scraper` object to make an article out of? You literally have the link right there in front of you! Go scrape that directly!"  
     - You right now
 
 I _hear_ you whining, but I _refuse_ to listen.
@@ -105,7 +105,7 @@ Nobody should be going around willy-nilly creating `Article`s on their own, or g
 
 So, yes, maybe it makes more sense to get the link directly and make a page out of it, but it turns out that if you search the words in the key exactly, you get the right article every time. "Every time", of course, is my own experience, but it's pretty darn consistent.
 
-"Okay, well why don't you just pull the suffix of the link it points to, you know, the part of the article URL where it's the literal term you'd want to use to get that (and only that) webpage, and use that to build the `Scraper` object, instead of the potentially ambiguous hash key string?"
+"Okay, well why don't you just pull the suffix of the link it points to, you know, the part of the article URL where it's the literal term you'd want to use to get that (and only that) webpage, and use that to build the `Scraper` object, instead of the potentially ambiguous hash key string?"  
     - You right now
 
 I _hear_ you whi... oh.
