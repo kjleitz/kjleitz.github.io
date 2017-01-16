@@ -19,6 +19,7 @@ Visit SinaTribes (currently hosted [here](https://enigmatic-plateau-45553.heroku
 
 ## Playing the game
 
+
 ### Getting started
 
 When you first navigate to the website, you are given two options: sign up, or log in. Sign up if you don't have an account, or log in if you already do (don't worry, passwords are hashed!). You don't have to give it your real email address, if you aren't comfortable with that. Just go ahead and make a dummy one and _no one will ever know_.
