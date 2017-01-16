@@ -124,6 +124,7 @@ You can see how other users see your tribe by going to your tribe's public-facin
 You can see other tribes by clicking their name wherever there is a link on it (the World page, their user page, your messenger activity page, etc.).
 
 <a name="installation"></a>
+
 ## Installation
 
 If you want to install the game and try to host it on your own, clone this repository:
@@ -158,6 +159,7 @@ Either method you choose (postgres or sqlite3), you'll need to `rvm install 2.2.
 If you care about session security (like if you're _not_ running it locally), you should set an environment variable for the session secret (e.g. `export SECRET="some secret string"`) before you serve the site.
 
 <a name="structure"></a>
+
 ## Application Structure
 
 ### Models
