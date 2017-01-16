@@ -11,7 +11,7 @@ Have you ever wanted to create (and grow) a tribe of "human beings"?
 
 Have you ever wanted to crudely manage the collective lives of a small group of "arguably real" "people" with "state of the art" tables, buttons, and input fields?
 
-Have you ever wanted to attack, talk to, and trade with other tribes, managed by people you don't know, over a basic and uninspired (yet web-_TASTIC_) user interface?
+Have you ever wanted to attack, talk to, and trade with other tribes, managed by people you don't know, over a basic and uninspired (yet web-*TASTIC*) user interface?
 
 Well, **NOW YOU CAN**!
 
