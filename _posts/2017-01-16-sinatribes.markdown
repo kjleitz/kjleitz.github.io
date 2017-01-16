@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "SinaTribes"
-date:   2017-01-16 22:41:33 +0000
+title:  "Lemme tell you 'bout SinaTribes..."
+date:   2017-01-16 17:41:35 -0500
 ---
 
 
-## A tribe-building simulation game!
+## SinaTribes is a tribe-building simulation game!
 
 Have you ever wanted to create (and grow) a tribe of "human beings"?
 
