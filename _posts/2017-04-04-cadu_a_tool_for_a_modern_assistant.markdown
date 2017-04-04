@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cadu, a tool for a modern assistant"
-date:   2017-04-04 12:11:11 +0000
+date:   2017-04-04 07:11:11 -0500
 ---
 
 
