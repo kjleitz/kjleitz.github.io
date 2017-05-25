@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Cadu! _Now with fewer redirects!_
+title:  Cadu! <i>Now with fewer redirects!</i>
 date:   2017-05-24 20:47:11 +0000
 ---
 
